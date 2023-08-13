@@ -1,6 +1,7 @@
 ## Olá 👋
 
 - Meu nome é Henrique
+- Tenho 17 anos 
 - Estudante do IFC Campus São Bento do Sul
 - Cursando técnico em informática integrado ao ensino médio 
 
